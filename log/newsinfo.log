@@ -1,0 +1,39 @@
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":8168,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:57:41.327Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":8168,"level":30,"msg":"socket connect","time":"2015-01-28T03:57:41.559Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":5144,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:57:42.807Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":5144,"level":30,"msg":"socket connect","time":"2015-01-28T03:57:42.867Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":8548,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:57:44.140Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":8548,"level":30,"msg":"socket connect","time":"2015-01-28T03:57:44.190Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":2228,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:57:45.457Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":2228,"level":30,"msg":"socket connect","time":"2015-01-28T03:57:45.484Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":7988,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:57:46.882Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":7988,"level":30,"msg":"socket connect","time":"2015-01-28T03:57:47.064Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":7700,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:57:48.315Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":7700,"level":30,"msg":"socket connect","time":"2015-01-28T03:57:48.400Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":8372,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:57:49.735Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":8300,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:57:51.133Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":8300,"level":30,"msg":"socket connect","time":"2015-01-28T03:57:51.230Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":7372,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:57:52.724Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":7372,"level":30,"msg":"socket connect","time":"2015-01-28T03:57:52.809Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":5884,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:57:54.039Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":5884,"level":30,"msg":"socket connect","time":"2015-01-28T03:57:54.146Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":6428,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:57:55.373Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":5348,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:57:56.790Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":5348,"level":30,"msg":"socket connect","time":"2015-01-28T03:57:56.848Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":8680,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:57:58.214Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":8680,"level":30,"msg":"socket connect","time":"2015-01-28T03:57:58.229Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":7928,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:57:59.460Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":7928,"level":30,"msg":"socket connect","time":"2015-01-28T03:57:59.505Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":8664,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:58:00.819Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":8664,"level":30,"msg":"socket connect","time":"2015-01-28T03:58:01.081Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":7684,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:58:02.370Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":7684,"level":30,"msg":"socket connect","time":"2015-01-28T03:58:02.393Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":6400,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:58:03.703Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":6400,"level":30,"msg":"socket connect","time":"2015-01-28T03:58:03.957Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":9024,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:58:05.200Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":9024,"level":30,"msg":"socket connect","time":"2015-01-28T03:58:05.223Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":8740,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:58:06.420Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":8740,"level":30,"msg":"socket connect","time":"2015-01-28T03:58:07.554Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":6540,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:58:08.912Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":8916,"level":30,"msg":"express server listening on port8080","time":"2015-01-28T03:58:11.214Z","v":0}
+{"name":"newsLog","hostname":"YRKQFNOE7PALWNQ","pid":8916,"level":30,"msg":"socket connect","time":"2015-01-28T03:58:12.326Z","v":0}

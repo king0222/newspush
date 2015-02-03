@@ -1,0 +1,54 @@
+<% include header %>
+	<body>
+	<div class="container">
+      <div class="row">
+        <h1><%= title %></h1>
+        <p>Welcome to <%= title %></p>
+        <div class="col-md-6">
+          <form class="form-inline" role="form">
+            <p>
+              <label class="col-sm-2 control-label" for="formGroupInputSmall">切换用户</label>
+              <select class="form-control" id="switchUser">
+                <option value="user_1421649662306">user_1421649662306</option>
+              </select>
+            </p>
+            <p>
+              <label class="col-sm-2 control-label" for="formGroupInputSmall">user</label>
+              <input class="form-control" type="text" id="user">
+            </p>
+            <p>
+              <label class="col-sm-2 control-label" for="formGroupInputSmall">title</label>
+              <input class="form-control" type="text" id="title">
+            </p>
+            <p>
+              <label class="col-sm-2 control-label" for="formGroupInputSmall">content</label>
+              <input class="form-control" type="text" id="content">
+            </p>
+            <p>
+              <label class="col-sm-2 control-label" for="formGroupInputSmall">type</label>
+              <select class="form-control" id="type">
+                <option value="1">询价蓝</option>
+                <option value="2">订单</option>
+                <option value="3">退货</option>
+              </select>
+            </p>
+            <p><button class="btn btn-primary" id="push">发送</button></p>
+          </form>
+        </div>
+        <div class="col-md-6">
+          <fieldset>
+            <div class="form-group">
+              <label class="col-sm-2 control-label" for="inquirys">询价篮</label><input class="sub" id="inquirys" type="checkbox" checked>
+            </div>
+            <div class="form-group">
+              <label class="col-sm-2 control-label" for="orders">订单</label><input class="sub" id="orders" type="checkbox" checked>
+            </div>
+            <div class="form-group">
+              <label class="col-sm-2 control-label" for="returns">退货</label><input class="sub" id="returns" type="checkbox" checked>
+            </div>
+            <button class="btn btn-primary" id="setting">设置</button>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+<% include footer %>
