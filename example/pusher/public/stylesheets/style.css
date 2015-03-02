@@ -1,0 +1,30 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.tip-holder{
+	display: none;
+	position: absolute;
+	top: 30px;
+	right: 20px;
+	width: 100px;
+	background: #ffffc6;
+}
+.dialog{
+	padding: 20px;
+	border-bottom:1px solid #c6c6c6;
+}
+.hide{
+	display: none;
+}
+.close{
+	cursor: pointer;
+}
+p[data-_id], p[data-user],p[data-__v],p[data-date] {
+	display: none;
+}
